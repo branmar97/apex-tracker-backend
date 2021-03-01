@@ -1,24 +1,15 @@
-# README
+# Apex Tracker - Backend
+A Rails API, including Devise for JWT authentication to support Apex Tracker Frontend.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built Using
+- [Ruby 2.6.1](https://www.ruby-lang.org/en/)
+- [Ruby on Rails 6.1.3](https://rubygems.org/gems/rails)
+- [Devise](https://rubygems.org/gems/devise)
+- [DeviseJWT](https://rubygems.org/gems/devise-jwt)
+- [fast_jsonapi](https://rubygems.org/gems/fast_jsonapi)
 
-Things you may want to cover:
+## Contributing
+Bug reports and pull requests are welcome on Github in this repository.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+Available as open source under the terms of the MIT license.
